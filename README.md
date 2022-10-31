@@ -11,6 +11,5 @@
 8) Join two linklists
 9) Add numbers in linklist
 10) Pair Sum
-11) Adjacent list graph
-.<br/>
+11) Adjacent list graph.<br/>
 12)DFS
