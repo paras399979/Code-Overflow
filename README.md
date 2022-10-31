@@ -10,3 +10,4 @@
 7) Hello world
 8) Join two linklists
 9) Add numbers in linklist
+10) Pair SUm
