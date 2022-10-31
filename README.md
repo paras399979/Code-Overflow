@@ -6,4 +6,4 @@
 3) Detect & Remove Loop in Linked List. <br/>
 4) Aggresive cow
 5) Reverse array
-6) reverse stack
+6) Reverse stack
