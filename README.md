@@ -7,4 +7,3 @@
 4) Aggresive cow
 5) Reverse array
 6) Reverse stack
-7) Hello 
